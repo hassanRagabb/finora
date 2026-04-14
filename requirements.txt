@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+openai
+python-multipart
+
+# Frontend requirements (informational)
+# Node.js 18+ and npm are required
+# Install frontend packages with:
+# cd frontend
+# npm install
